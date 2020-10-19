@@ -1,5 +1,5 @@
 {
-  "name": "strong-remoting",
+  "name": "@tispr/strong-remoting",
   "description": "StrongLoop Remoting Module",
   "keywords": [
     "StrongLoop",
@@ -59,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/strong-remoting"
+    "url": "https://github.com/tispr/strong-remoting.git"
   },
   "browser": {
     "express": false,
